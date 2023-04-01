@@ -3031,7 +3031,6 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
-  text-transform: uppercase;
 }
 
 .footer .footer-content .footer-info h3 span {
@@ -3139,6 +3138,10 @@ section {
 
 .footer .footer-content .footer-newsletter form input[type=submit]:hover {
   background: rgba(var(--color-primary-rgb), 0.85);
+}
+
+.footer-newsletter p a{
+  color: var(--color-white);
 }
 
 .footer .footer-legal {
