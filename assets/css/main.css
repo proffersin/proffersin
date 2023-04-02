@@ -1,14 +1,4 @@
-/**
-* Template Name: HeroBiz
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/**
-* Check out variables.css for easy customization of colors, typography, and other repetitive properties
-*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -554,7 +544,8 @@ section {
 # Index Page
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
-# Animated Hero Section
+# +
+ Hero Section
 --------------------------------------------------------------*/
 .hero-animated {
   width: 100%;
@@ -591,7 +582,7 @@ section {
 
 @media (min-width: 992px) {
   .hero-animated .animated {
-    max-width: 45%;
+    max-width: 60%;
   }
 }
 
